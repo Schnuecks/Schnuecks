@@ -7,6 +7,14 @@ for my own setup and share them when they might be useful to others too.
 - 🏠 **Homelab & self-hosting**: my own services at home, running in Docker
 - 🐍 Mostly **Python**, with a bit of Shell
 
+If my projects are useful to you, you can buy me a coffee ☕
+
+<p>
+  <a href="https://buymeacoffee.com/il6hhwtzr6"><img src="https://img.shields.io/badge/Buy_me_a_coffee-5_%E2%82%AC-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee: 5 €"></a>
+  <a href="https://buymeacoffee.com/il6hhwtzr6"><img src="https://img.shields.io/badge/Buy_me_a_coffee-10_%E2%82%AC-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee: 10 €"></a>
+  <a href="https://buymeacoffee.com/il6hhwtzr6"><img src="https://img.shields.io/badge/Buy_me_a_coffee-20_%E2%82%AC-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee: 20 €"></a>
+</p>
+
 ---
 
 ### <img src="assets/plateshelf-logo.svg" width="28" align="top" alt=""> [PlateShelf](https://github.com/Schnuecks/plateshelf)
@@ -39,6 +47,8 @@ helfen können.
 - 🖨️ **3D-Druck** mit einem Bambu Lab P2S und einem Prusa Mini+
 - 🏠 **Homelab & Self-Hosting**: eigene Dienste zuhause, in Docker
 - 🐍 Meistens **Python**, dazu etwas Shell
+
+Wenn dir meine Projekte helfen, kannst du mir gern einen Kaffee ausgeben ☕ – über die Knöpfe oben.
 
 **[PlateShelf](https://github.com/Schnuecks/plateshelf)** ist ein selbstgehostetes Archiv für
 deine 3D-Drucke: Platten mit Vorschaubildern, Druckzeit, Filament, Kosten und eine 3D-Vorschau

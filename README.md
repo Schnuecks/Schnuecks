@@ -35,6 +35,36 @@ plates with previews, print time, filament, costs and a 3D preview of the actual
 
 ---
 
+### <img src="assets/rdapi-logo.svg" width="28" align="top" alt=""> [RDAPI](https://github.com/Schnuecks/rdapi)
+
+**A lean self-hosted API server for the RustDesk app.** RDAPI adds what a household or a
+small team needs on top of your own ID and relay server: signing in to the app, an address
+book that follows you to every device, a device list and a history of incoming connections.
+
+- **Address book** per user with tags, synchronised between all your devices
+- **Device list** with online status and a **connection history**: who connected when and for how long
+- Two-factor sign-in, **passkeys** and **single sign-on** via OpenID Connect
+- Web interface in six languages, daily backups, one container with one SQLite file
+
+<p>
+  <a href="https://github.com/Schnuecks/rdapi"><img src="assets/rdapi-devices.png" width="49%" alt="RDAPI device list in the web interface"></a>
+  <a href="https://github.com/Schnuecks/rdapi"><img src="assets/rdapi-history.png" width="49%" alt="RDAPI connection history"></a>
+</p>
+
+---
+
+### <img src="assets/traefik-pihole-sync-logo.svg" width="28" align="top" alt=""> [traefik-pihole-sync](https://github.com/Schnuecks/traefik-pihole-sync)
+
+**Traefik hostnames as local DNS records in Pi-hole v6.** Start a container with a `Host()`
+rule and its name resolves on your network a minute later; remove it and the record goes
+away again.
+
+- **A, AAAA or CNAME records**, for one or several Pi-holes at once
+- **Safe by design:** only deletes records it created itself, delayed deletion, dry-run mode
+- Domain filter, quiet logs and a small non-root container for amd64 and arm64
+
+---
+
 <details>
 <summary><b>🇩🇪 Auf Deutsch</b></summary>
 
@@ -54,5 +84,16 @@ Wenn dir meine Projekte helfen, kannst du mir gern einen Kaffee ausgeben ☕ –
 deine 3D-Drucke: Platten mit Vorschaubildern, Druckzeit, Filament, Kosten und eine 3D-Vorschau
 der Druckbahnen, dazu Direktimport von Bambu-, Prusa- und Klipper-Druckern, Druckverlauf mit
 Statistik, Fotos vom fertigen Druck und sechs Sprachen – in einem einzigen Docker-Container.
+
+**[RDAPI](https://github.com/Schnuecks/rdapi)** ist ein schlanker, selbstgehosteter API-Server
+für die RustDesk-App: Anmeldung in der App, ein Adressbuch, das dir auf jedes Gerät folgt,
+eine Geräteliste und ein Verlauf eingehender Verbindungen, dazu Zwei-Faktor-Anmeldung,
+Passkeys, Single Sign-on und eine Weboberfläche in sechs Sprachen – ein Container, eine
+SQLite-Datei.
+
+**[traefik-pihole-sync](https://github.com/Schnuecks/traefik-pihole-sync)** trägt die
+Hostnamen deiner Traefik-Router automatisch als lokale DNS-Einträge in Pi-hole v6 ein: als
+A-, AAAA- oder CNAME-Eintrag, für einen oder mehrere Pi-holes. Es löscht nur Einträge, die es
+selbst angelegt hat, und hat einen Probelauf-Modus.
 
 </details>

@@ -17,7 +17,7 @@ If my projects are useful to you, you can buy me a coffee ☕
 
 ---
 
-### <img src="assets/plateshelf-logo.svg" width="28" align="top" alt=""> [PlateShelf](https://github.com/Schnuecks/plateshelf)
+### <img src="assets/plateshelf-logo.svg" width="28" align="top" alt=""> [PlateShelf](https://github.com/Schnuecks/plateshelf) <img src="https://img.shields.io/badge/coming_soon-8A8A8A" alt="coming soon">
 
 **A self-hosted archive for your 3D prints.** PlateShelf reads sliced files from Bambu Studio,
 OrcaSlicer, PrusaSlicer, Cura and others and shows them as clearly as your slicer does:
@@ -35,7 +35,7 @@ plates with previews, print time, filament, costs and a 3D preview of the actual
 
 ---
 
-### <img src="assets/rdapi-logo.svg" width="28" align="top" alt=""> [RDAPI](https://github.com/Schnuecks/rdapi)
+### <img src="assets/rdapi-logo.svg" width="28" align="top" alt=""> [RDAPI](https://github.com/Schnuecks/rdapi) <img src="https://img.shields.io/badge/coming_soon-8A8A8A" alt="coming soon">
 
 **A lean self-hosted API server for the RustDesk app.** RDAPI adds what a household or a
 small team needs on top of your own ID and relay server: signing in to the app, an address
@@ -80,12 +80,12 @@ helfen können.
 
 Wenn dir meine Projekte helfen, kannst du mir gern einen Kaffee ausgeben ☕ – über die Knöpfe oben.
 
-**[PlateShelf](https://github.com/Schnuecks/plateshelf)** ist ein selbstgehostetes Archiv für
+**[PlateShelf](https://github.com/Schnuecks/plateshelf)** *(demnächst)* ist ein selbstgehostetes Archiv für
 deine 3D-Drucke: Platten mit Vorschaubildern, Druckzeit, Filament, Kosten und eine 3D-Vorschau
 der Druckbahnen, dazu Direktimport von Bambu-, Prusa- und Klipper-Druckern, Druckverlauf mit
 Statistik, Fotos vom fertigen Druck und sechs Sprachen – in einem einzigen Docker-Container.
 
-**[RDAPI](https://github.com/Schnuecks/rdapi)** ist ein schlanker, selbstgehosteter API-Server
+**[RDAPI](https://github.com/Schnuecks/rdapi)** *(demnächst)* ist ein schlanker, selbstgehosteter API-Server
 für die RustDesk-App: Anmeldung in der App, ein Adressbuch, das dir auf jedes Gerät folgt,
 eine Geräteliste und ein Verlauf eingehender Verbindungen, dazu Zwei-Faktor-Anmeldung,
 Passkeys, Single Sign-on und eine Weboberfläche in sechs Sprachen – ein Container, eine

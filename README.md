@@ -7,12 +7,18 @@ for my own setup and share them when they might be useful to others too.
 - 🏠 **Homelab & self-hosting**: my own services at home, running in Docker
 - 🐍 Mostly **Python**, with a bit of Shell
 
-If my projects are useful to you, you can buy me a coffee ☕
+If my projects are useful to you, you can buy me a coffee ☕ or send something via PayPal
 
 <p>
   <a href="https://buymeacoffee.com/il6hhwtzr6"><img src="https://img.shields.io/badge/Buy_me_a_coffee-10_%E2%82%AC-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee: 10 €"></a>
   <a href="https://buymeacoffee.com/il6hhwtzr6"><img src="https://img.shields.io/badge/Buy_me_a_coffee-25_%E2%82%AC-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee: 25 €"></a>
   <a href="https://buymeacoffee.com/il6hhwtzr6"><img src="https://img.shields.io/badge/Buy_me_a_coffee-50_%E2%82%AC-FFDD00?logo=buymeacoffee&logoColor=black" alt="Buy me a coffee: 50 €"></a>
+</p>
+
+<p>
+  <a href="https://paypal.me/Schnuecks/10EUR"><img src="https://img.shields.io/badge/PayPal-10_%E2%82%AC-00457C?logo=paypal&logoColor=white" alt="PayPal: 10 €"></a>
+  <a href="https://paypal.me/Schnuecks/25EUR"><img src="https://img.shields.io/badge/PayPal-25_%E2%82%AC-00457C?logo=paypal&logoColor=white" alt="PayPal: 25 €"></a>
+  <a href="https://paypal.me/Schnuecks/50EUR"><img src="https://img.shields.io/badge/PayPal-50_%E2%82%AC-00457C?logo=paypal&logoColor=white" alt="PayPal: 50 €"></a>
 </p>
 
 ---
@@ -78,7 +84,7 @@ helfen können.
 - 🏠 **Homelab & Self-Hosting**: eigene Dienste zuhause, in Docker
 - 🐍 Meistens **Python**, dazu etwas Shell
 
-Wenn dir meine Projekte helfen, kannst du mir gern einen Kaffee ausgeben ☕ – über die Knöpfe oben.
+Wenn dir meine Projekte helfen, kannst du mir gern einen Kaffee ausgeben ☕ oder etwas per PayPal schicken – über die Knöpfe oben.
 
 **[PlateShelf](https://github.com/Schnuecks/plateshelf)** *(demnächst)* ist ein selbstgehostetes Archiv für
 deine 3D-Drucke: Platten mit Vorschaubildern, Druckzeit, Filament, Kosten und eine 3D-Vorschau

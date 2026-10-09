@@ -41,7 +41,7 @@ plates with previews, print time, filament, costs and a 3D preview of the actual
 
 ---
 
-### <img src="assets/rdapi-logo.svg" width="28" align="top" alt=""> [RDAPI](https://github.com/Schnuecks/rdapi) <img src="https://img.shields.io/badge/coming_soon-8A8A8A" alt="coming soon">
+### <img src="assets/rdapi-logo.svg" width="28" align="top" alt=""> [RDAPI](https://github.com/Schnuecks/rdapi) <img src="https://img.shields.io/badge/public_beta-E4572E" alt="public beta">
 
 **A lean self-hosted API server for the RustDesk app.** RDAPI adds what a household or a
 small team needs on top of your own ID and relay server: signing in to the app, an address
@@ -51,6 +51,9 @@ book that follows you to every device, a device list and a history of incoming c
 - **Device list** with online status and a **connection history**: who connected when and for how long
 - Two-factor sign-in, **passkeys** and **single sign-on** via OpenID Connect
 - Web interface in six languages, daily backups, one container with one SQLite file
+
+Public beta: everything works, but a signed-in app can only connect once RustDesk releases
+its ID server fix. More at [rdapi.app](https://rdapi.app).
 
 <p>
   <a href="https://github.com/Schnuecks/rdapi"><img src="assets/rdapi-devices.png" width="49%" alt="RDAPI device list in the web interface"></a>
@@ -91,7 +94,7 @@ deine 3D-Drucke: Platten mit Vorschaubildern, Druckzeit, Filament, Kosten und ei
 der Druckbahnen, dazu Direktimport von Bambu-, Prusa- und Klipper-Druckern, Druckverlauf mit
 Statistik, Fotos vom fertigen Druck und sechs Sprachen – in einem einzigen Docker-Container.
 
-**[RDAPI](https://github.com/Schnuecks/rdapi)** *(demnächst)* ist ein schlanker, selbstgehosteter API-Server
+**[RDAPI](https://github.com/Schnuecks/rdapi)** *(öffentliche Beta)* ist ein schlanker, selbstgehosteter API-Server
 für die RustDesk-App: Anmeldung in der App, ein Adressbuch, das dir auf jedes Gerät folgt,
 eine Geräteliste und ein Verlauf eingehender Verbindungen, dazu Zwei-Faktor-Anmeldung,
 Passkeys, Single Sign-on und eine Weboberfläche in sechs Sprachen – ein Container, eine

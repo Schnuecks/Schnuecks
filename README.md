@@ -54,6 +54,24 @@ its ID server fix. More at [rdapi.app](https://rdapi.app).
 
 ---
 
+### <img src="assets/print-roulette-logo.svg" width="28" align="top" alt=""> [Print Roulette](https://github.com/Schnuecks/print-roulette)
+
+**Spin the wheel and discover a random 3D print.** Print Roulette picks a model from
+MakerWorld, Printables, Cults3D or Thingiverse and links straight to its page, for the
+evenings when you want to print something but don't know what.
+
+- **Prize wheel** in the platform colours: spin for a random platform or roll on one directly
+- **Preview image, title and creator**, filters for free models and for hiding NSFW content
+- **No database, no login, no tracking**, six languages, light and dark mode
+- A small container with no dependencies beyond the Python standard library
+
+<p>
+  <a href="https://github.com/Schnuecks/print-roulette"><img src="assets/print-roulette-desktop.png" width="64%" alt="Print Roulette with the prize wheel, a result and the history"></a>
+  <a href="https://github.com/Schnuecks/print-roulette"><img src="assets/print-roulette-mobile.png" width="31%" alt="Print Roulette on a phone in light mode"></a>
+</p>
+
+---
+
 ### <img src="assets/traefik-pihole-sync-logo.svg" width="28" align="top" alt=""> [traefik-pihole-sync](https://github.com/Schnuecks/traefik-pihole-sync)
 
 **Traefik hostnames as local DNS records in Pi-hole v6.** Start a container with a `Host()`
@@ -91,6 +109,12 @@ für die RustDesk-App: Anmeldung in der App, ein Adressbuch, das dir auf jedes G
 eine Geräteliste und ein Verlauf eingehender Verbindungen, dazu Zwei-Faktor-Anmeldung,
 Passkeys, Single Sign-on und eine Weboberfläche in sechs Sprachen – ein Container, eine
 SQLite-Datei.
+
+**[Print Roulette](https://github.com/Schnuecks/print-roulette)** wählt per Glücksrad einen
+zufälligen 3D-Druck von MakerWorld, Printables, Cults3D oder Thingiverse und verlinkt direkt
+auf dessen Seite – für die Abende, an denen du etwas drucken willst, aber nicht weißt, was.
+Mit Vorschaubild, Filtern für kostenlose Modelle und gegen NSFW-Inhalte, sechs Sprachen und
+ganz ohne Datenbank, Anmeldung oder Tracking.
 
 **[traefik-pihole-sync](https://github.com/Schnuecks/traefik-pihole-sync)** trägt die
 Hostnamen deiner Traefik-Router automatisch als lokale DNS-Einträge in Pi-hole v6 ein: als

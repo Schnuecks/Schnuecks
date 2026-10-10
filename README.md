@@ -6,6 +6,7 @@ for my own setup and share them when they might be useful to others too.
 - 🖨️ **3D printing** on a Bambu Lab P2S and a Prusa Mini+
 - 🏠 **Homelab & self-hosting**: my own services at home, running in Docker
 - 🐍 Mostly **Python**, with a bit of Shell
+- 🌐 All my projects at a glance: **[schnuecks.dev](https://schnuecks.dev)**
 
 If my projects are useful to you, you can buy me a coffee ☕ on Ko-fi
 
@@ -96,6 +97,7 @@ helfen können.
 - 🖨️ **3D-Druck** mit einem Bambu Lab P2S und einem Prusa Mini+
 - 🏠 **Homelab & Self-Hosting**: eigene Dienste zuhause, in Docker
 - 🐍 Meistens **Python**, dazu etwas Shell
+- 🌐 Alle Projekte auf einen Blick: **[schnuecks.dev/de](https://schnuecks.dev/de/)**
 
 Wenn dir meine Projekte helfen, kannst du mir gern auf Ko-fi einen Kaffee ausgeben ☕ – über den Knopf oben.
 

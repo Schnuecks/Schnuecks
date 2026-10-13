@@ -8,6 +8,10 @@ for my own setup and share them when they might be useful to others too.
 - 🐍 Mostly **Python**, with a bit of Shell
 - 🌐 All my projects at a glance: **[schnuecks.dev](https://schnuecks.dev)**
 
+AI coding assistants are part of my workflow: they help me draft code, tests and documentation.
+What gets built, how it behaves and what gets released is my decision, and every release is
+tested on my own hardware first.
+
 If my projects are useful to you, you can buy me a coffee ☕ on Ko-fi
 
 <p>
@@ -98,6 +102,10 @@ helfen können.
 - 🏠 **Homelab & Self-Hosting**: eigene Dienste zuhause, in Docker
 - 🐍 Meistens **Python**, dazu etwas Shell
 - 🌐 Alle Projekte auf einen Blick: **[schnuecks.dev/de](https://schnuecks.dev/de/)**
+
+KI-Assistenten gehören zu meinem Werkzeugkasten: Sie helfen mir beim Entwurf von Code, Tests und
+Dokumentation. Was gebaut wird, wie es sich verhält und was veröffentlicht wird, entscheide ich,
+und jedes Release läuft vorher auf meiner eigenen Hardware.
 
 Wenn dir meine Projekte helfen, kannst du mir gern auf Ko-fi einen Kaffee ausgeben ☕ – über den Knopf oben.
 

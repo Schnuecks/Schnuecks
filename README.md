@@ -12,6 +12,13 @@ AI coding assistants are part of my workflow: they help me draft code, tests and
 What gets built, how it behaves and what gets released is my decision, and every release is
 tested on my own hardware first.
 
+Security is part of that, not an afterthought. Every project runs its test suite, a container
+scan (Trivy) and Dependabot on each change; the web apps are also scanned with OWASP ZAP.
+Before going public, each project gets a security review: findings are reproduced with a test,
+fixed, and the fix is checked again – you can follow it in the changelogs. Found something?
+Every repository has a [security policy](https://github.com/Schnuecks/rdapi/security/policy)
+for reporting it privately.
+
 If my projects are useful to you, you can buy me a coffee ☕ on Ko-fi
 
 <p>
@@ -106,6 +113,13 @@ helfen können.
 KI-Assistenten gehören zu meinem Werkzeugkasten: Sie helfen mir beim Entwurf von Code, Tests und
 Dokumentation. Was gebaut wird, wie es sich verhält und was veröffentlicht wird, entscheide ich,
 und jedes Release läuft vorher auf meiner eigenen Hardware.
+
+Sicherheit gehört dazu und kommt nicht hinterher. Jedes Projekt durchläuft bei jeder Änderung
+seine Tests, einen Container-Scan (Trivy) und Dependabot; die Web-Apps werden zusätzlich mit
+OWASP ZAP gescannt. Vor der Veröffentlichung bekommt jedes Projekt einen Sicherheits-Review:
+Funde werden mit einem Test nachgestellt, behoben und danach erneut geprüft – nachzulesen in den
+Changelogs. Etwas gefunden? Jedes Repository hat eine Sicherheitsrichtlinie, um es vertraulich
+zu melden.
 
 Wenn dir meine Projekte helfen, kannst du mir gern auf Ko-fi einen Kaffee ausgeben ☕ – über den Knopf oben.
 

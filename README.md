@@ -27,15 +27,15 @@ If my projects are useful to you, you can buy me a coffee ☕ on Ko-fi
 
 ---
 
-### <img src="assets/plateshelf-logo.svg" width="28" align="top" alt=""> [PlateShelf](https://github.com/Schnuecks/plateshelf) <img src="https://img.shields.io/badge/coming_soon-8A8A8A" alt="coming soon">
+### <img src="assets/plateshelf-logo.svg" width="28" align="top" alt=""> [PlateShelf](https://github.com/Schnuecks/plateshelf) <img src="https://img.shields.io/badge/1.0-2E7D32" alt="1.0">
 
 **A self-hosted archive for your 3D prints.** PlateShelf reads sliced files from Bambu Studio,
 OrcaSlicer, PrusaSlicer, Cura and others and shows them as clearly as your slicer does:
 plates with previews, print time, filament, costs and a 3D preview of the actual toolpaths.
 
-- Direct import from **Bambu Lab**, **Prusa** (PrusaLink) and **Klipper** printers (Moonraker)
+- Direct import from **Bambu Lab**, **Prusa** (PrusaLink), **Klipper** (Moonraker) and **OctoPrint** printers
 - **Print history** with statistics, notes per print and your own photos of the result
-- User accounts with roles, daily backups, six languages, light and dark theme
+- User accounts with roles, passkeys, single sign-on, daily backups, six languages, light and dark theme
 - Runs as a single Docker container on a PC, NAS or Raspberry Pi
 
 <p>
@@ -123,9 +123,9 @@ zu melden.
 
 Wenn dir meine Projekte helfen, kannst du mir gern auf Ko-fi einen Kaffee ausgeben ☕ – über den Knopf oben.
 
-**[PlateShelf](https://github.com/Schnuecks/plateshelf)** *(demnächst)* ist ein selbstgehostetes Archiv für
+**[PlateShelf](https://github.com/Schnuecks/plateshelf)** ist ein selbstgehostetes Archiv für
 deine 3D-Drucke: Platten mit Vorschaubildern, Druckzeit, Filament, Kosten und eine 3D-Vorschau
-der Druckbahnen, dazu Direktimport von Bambu-, Prusa- und Klipper-Druckern, Druckverlauf mit
+der Druckbahnen, dazu Direktimport von Bambu-, Prusa-, Klipper- und OctoPrint-Druckern, Druckverlauf mit
 Statistik, Fotos vom fertigen Druck und sechs Sprachen – in einem einzigen Docker-Container.
 
 **[RDAPI](https://github.com/Schnuecks/rdapi)** *(öffentliche Beta)* ist ein schlanker, selbstgehosteter API-Server

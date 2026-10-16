@@ -45,6 +45,25 @@ plates with previews, print time, filament, costs and a 3D preview of the actual
 
 ---
 
+### <img src="assets/mailreports-logo.svg" width="28" align="top" alt=""> [mailreports](https://github.com/Schnuecks/mailreports) <img src="https://img.shields.io/badge/1.0-2E7D32" alt="1.0">
+
+**DMARC and TLS reports in plain words.** mailreports fetches the daily DMARC and SMTP TLS
+reports for your domains from a mailbox and explains them: who sent email in your name,
+whether it was genuine and what the receiving servers did with it – instead of XML and
+result codes.
+
+- **Every report record explained**, senders classified as your own servers, services, forwarders or unknown, with reverse DNS and network
+- **DNS check** for DMARC, SPF, DKIM, MTA-STS and TLS-RPT, and a recommendation when the policy can be tightened
+- **Notifications** via Pushover, ntfy, webhook or email, plus a weekly summary
+- Passkeys, single sign-on, six languages; one container, one SQLite file. More at [mailreports.app](https://mailreports.app)
+
+<p>
+  <a href="https://github.com/Schnuecks/mailreports"><img src="assets/mailreports-overview.png" width="49%" alt="mailreports overview with the DMARC pass rate of two domains"></a>
+  <a href="https://github.com/Schnuecks/mailreports"><img src="assets/mailreports-report.png" width="49%" alt="mailreports explaining a DMARC report record by record"></a>
+</p>
+
+---
+
 ### <img src="assets/rdapi-logo.svg" width="28" align="top" alt=""> [RDAPI](https://github.com/Schnuecks/rdapi) <img src="https://img.shields.io/badge/public_beta-E4572E" alt="public beta">
 
 **A lean self-hosted API server for the RustDesk app.** RDAPI adds what a household or a
@@ -127,6 +146,12 @@ Wenn dir meine Projekte helfen, kannst du mir gern auf Ko-fi einen Kaffee ausgeb
 deine 3D-Drucke: Platten mit Vorschaubildern, Druckzeit, Filament, Kosten und eine 3D-Vorschau
 der Druckbahnen, dazu Direktimport von Bambu-, Prusa-, Klipper- und OctoPrint-Druckern, Druckverlauf mit
 Statistik, Fotos vom fertigen Druck und sechs Sprachen – in einem einzigen Docker-Container.
+
+**[mailreports](https://github.com/Schnuecks/mailreports)** erklärt die DMARC- und
+SMTP-TLS-Berichte deiner Domains im Klartext: wer in deinem Namen E-Mails versendet hat, ob sie
+echt waren und wie die empfangenden Server damit verfahren sind. Dazu eine DNS-Prüfung, eine
+Empfehlung für eine strengere Richtlinie, Benachrichtigungen per Pushover, ntfy, Webhook oder
+E-Mail, Passkeys, Single Sign-on und sechs Sprachen – ein Container, eine SQLite-Datei.
 
 **[RDAPI](https://github.com/Schnuecks/rdapi)** *(öffentliche Beta)* ist ein schlanker, selbstgehosteter API-Server
 für die RustDesk-App: Anmeldung in der App, ein Adressbuch, das dir auf jedes Gerät folgt,

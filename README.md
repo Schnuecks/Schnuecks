@@ -1,5 +1,7 @@
 ## Hi, I'm Schnuecks 👋
 
+**English** · [Deutsch](https://github.com/Schnuecks/Schnuecks/blob/main/README.de.md)
+
 3D printing enthusiast and homelab tinkerer from Germany. I build small self-hosted tools
 for my own setup and share them when they might be useful to others too.
 
@@ -112,62 +114,3 @@ away again.
 - **A, AAAA or CNAME records**, for one or several Pi-holes at once
 - **Safe by design:** only deletes records it created itself, delayed deletion, dry-run mode
 - Domain filter, quiet logs and a small non-root container for amd64 and arm64
-
----
-
-<details>
-<summary><b>🇩🇪 Auf Deutsch</b></summary>
-
-<br>
-
-**Hallo, ich bin Schnuecks!** 3D-Druck-Fan und Homelab-Bastler aus Deutschland. Ich baue
-kleine selbstgehostete Werkzeuge für mein eigenes Setup und teile sie, wenn sie auch anderen
-helfen können.
-
-- 🖨️ **3D-Druck** mit einem Bambu Lab P2S und einem Prusa Mini+
-- 🏠 **Homelab & Self-Hosting**: eigene Dienste zuhause, in Docker
-- 🐍 Meistens **Python**, dazu etwas Shell
-- 🌐 Alle Projekte auf einen Blick: **[schnuecks.dev/de](https://schnuecks.dev/de/)**
-
-KI-Assistenten gehören zu meinem Werkzeugkasten: Sie helfen mir beim Entwurf von Code, Tests und
-Dokumentation. Was gebaut wird, wie es sich verhält und was veröffentlicht wird, entscheide ich,
-und jedes Release läuft vorher auf meiner eigenen Hardware.
-
-Sicherheit gehört dazu und kommt nicht hinterher. Jedes Projekt durchläuft bei jeder Änderung
-seine Tests, einen Container-Scan (Trivy) und Dependabot; die Web-Apps werden zusätzlich mit
-OWASP ZAP gescannt. Vor der Veröffentlichung bekommt jedes Projekt einen Sicherheits-Review:
-Funde werden mit einem Test nachgestellt, behoben und danach erneut geprüft – nachzulesen in den
-Changelogs. Etwas gefunden? Jedes Repository hat eine Sicherheitsrichtlinie, um es vertraulich
-zu melden.
-
-Wenn dir meine Projekte helfen, kannst du mir gern auf Ko-fi einen Kaffee ausgeben ☕ – über den Knopf oben.
-
-**[PlateShelf](https://github.com/Schnuecks/plateshelf)** ist ein selbstgehostetes Archiv für
-deine 3D-Drucke: Platten mit Vorschaubildern, Druckzeit, Filament, Kosten und eine 3D-Vorschau
-der Druckbahnen, dazu Direktimport von Bambu-, Prusa-, Klipper- und OctoPrint-Druckern, Druckverlauf mit
-Statistik, Fotos vom fertigen Druck und sechs Sprachen – in einem einzigen Docker-Container.
-
-**[mailreports](https://github.com/Schnuecks/mailreports)** erklärt die DMARC- und
-SMTP-TLS-Berichte deiner Domains im Klartext: wer in deinem Namen E-Mails versendet hat, ob sie
-echt waren und wie die empfangenden Server damit verfahren sind. Dazu eine DNS-Prüfung, eine
-Empfehlung für eine strengere Richtlinie, Benachrichtigungen per Pushover, ntfy, Webhook oder
-E-Mail, Passkeys, Single Sign-on und sechs Sprachen – ein Container, eine SQLite-Datei.
-
-**[RDAPI](https://github.com/Schnuecks/rdapi)** *(öffentliche Beta)* ist ein schlanker, selbstgehosteter API-Server
-für die RustDesk-App: Anmeldung in der App, ein Adressbuch, das dir auf jedes Gerät folgt,
-eine Geräteliste und ein Verlauf eingehender Verbindungen, dazu Zwei-Faktor-Anmeldung,
-Passkeys, Single Sign-on und eine Weboberfläche in sechs Sprachen – ein Container, eine
-SQLite-Datei.
-
-**[Print Roulette](https://github.com/Schnuecks/print-roulette)** wählt per Glücksrad einen
-zufälligen 3D-Druck von MakerWorld, Printables, Cults3D oder Thingiverse und verlinkt direkt
-auf dessen Seite – für die Abende, an denen du etwas drucken willst, aber nicht weißt, was.
-Mit Vorschaubild, Filtern für kostenlose Modelle und gegen NSFW-Inhalte, sechs Sprachen und
-ganz ohne Datenbank, Anmeldung oder Tracking.
-
-**[traefik-pihole-sync](https://github.com/Schnuecks/traefik-pihole-sync)** trägt die
-Hostnamen deiner Traefik-Router automatisch als lokale DNS-Einträge in Pi-hole v6 ein: als
-A-, AAAA- oder CNAME-Eintrag, für einen oder mehrere Pi-holes. Es löscht nur Einträge, die es
-selbst angelegt hat, und hat einen Probelauf-Modus.
-
-</details>

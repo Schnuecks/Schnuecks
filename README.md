@@ -27,7 +27,7 @@ If my projects are useful to you, you can buy me a coffee ☕ on Ko-fi
 
 ---
 
-### <img src="assets/plateshelf-logo.svg" width="28" align="top" alt=""> [PlateShelf](https://github.com/Schnuecks/plateshelf) <img src="https://img.shields.io/badge/1.0-2E7D32" alt="1.0">
+### <img src="assets/plateshelf-logo.svg" width="28" align="top" alt=""> [PlateShelf](https://github.com/Schnuecks/plateshelf) <img src="https://img.shields.io/badge/stable-2E7D32" alt="stable">
 
 **A self-hosted archive for your 3D prints.** PlateShelf reads sliced files from Bambu Studio,
 OrcaSlicer, PrusaSlicer, Cura and others and shows them as clearly as your slicer does:
@@ -45,7 +45,7 @@ plates with previews, print time, filament, costs and a 3D preview of the actual
 
 ---
 
-### <img src="assets/mailreports-logo.svg" width="28" align="top" alt=""> [mailreports](https://github.com/Schnuecks/mailreports) <img src="https://img.shields.io/badge/1.0-2E7D32" alt="1.0">
+### <img src="assets/mailreports-logo.svg" width="28" align="top" alt=""> [mailreports](https://github.com/Schnuecks/mailreports) <img src="https://img.shields.io/badge/stable-2E7D32" alt="stable">
 
 **DMARC and TLS reports in plain words.** mailreports fetches the daily DMARC and SMTP TLS
 reports for your domains from a mailbox and explains them: who sent email in your name,
@@ -85,7 +85,7 @@ its ID server fix. More at [rdapi.app](https://rdapi.app).
 
 ---
 
-### <img src="assets/print-roulette-logo.svg" width="28" align="top" alt=""> [Print Roulette](https://github.com/Schnuecks/print-roulette)
+### <img src="assets/print-roulette-logo.svg" width="28" align="top" alt=""> [Print Roulette](https://github.com/Schnuecks/print-roulette) <img src="https://img.shields.io/badge/stable-2E7D32" alt="stable">
 
 **Spin the wheel and discover a random 3D print.** Print Roulette picks a model from
 MakerWorld, Printables, Cults3D or Thingiverse and links straight to its page, for the
@@ -103,7 +103,7 @@ evenings when you want to print something but don't know what.
 
 ---
 
-### <img src="assets/traefik-pihole-sync-logo.svg" width="28" align="top" alt=""> [traefik-pihole-sync](https://github.com/Schnuecks/traefik-pihole-sync)
+### <img src="assets/traefik-pihole-sync-logo.svg" width="28" align="top" alt=""> [traefik-pihole-sync](https://github.com/Schnuecks/traefik-pihole-sync) <img src="https://img.shields.io/badge/stable-2E7D32" alt="stable">
 
 **Traefik hostnames as local DNS records in Pi-hole v6.** Start a container with a `Host()`
 rule and its name resolves on your network a minute later; remove it and the record goes

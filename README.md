@@ -51,6 +51,25 @@ Druckbahnen.
 
 ---
 
+### <img src="assets/nine-lives-logo.svg" width="28" align="top" alt=""> [Nine Lives](https://github.com/Schnuecks/ha-nine-lives) <img src="https://img.shields.io/badge/stabil-2E7D32" alt="stabil">
+
+**Einem Gerät in Home Assistant ein neues Leben geben.** Nine Lives ersetzt ein Gerät, ohne etwas
+kaputtzumachen: Das neue Gerät übernimmt Entity-IDs, Einstellungen und Verlauf des alten, und
+Automationen, Dashboards und das Energie-Dashboard laufen einfach weiter – zum Beispiel beim
+Umzug von Sensoren von Zigbee auf Thread/Matter.
+
+- **Entitäten nach Typ und Einheit gepaart**, mit Vorschau jeder Änderung und Rückgängig mit einem Klick
+- **Verlauf und Langzeitstatistik** laufen weiter, Zählerstände ohne Sprung im Energie-Dashboard
+- **Verweise mitgezogen**: Geräte-Trigger, Dashboards, Gruppen und andere Helfer; YAML-Dateien werden nur gemeldet
+- Tauscht sogar, wenn das alte Gerät schon in der App des Herstellers gelöscht wurde; Installation über HACS
+
+<p>
+  <a href="https://github.com/Schnuecks/ha-nine-lives"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nine-lives-pairs-dark.png"><img src="assets/nine-lives-pairs.png" width="49%" alt="Nine Lives ordnet die Entitäten des alten und neuen Geräts einander zu"></picture></a>
+  <a href="https://github.com/Schnuecks/ha-nine-lives"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nine-lives-preview-dark.png"><img src="assets/nine-lives-preview.png" width="49%" alt="Vorschau von Nine Lives mit übernommenen IDs und umgeschriebenen Verweisen"></picture></a>
+</p>
+
+---
+
 ### <img src="assets/mailreports-logo.svg" width="28" align="top" alt=""> [mailreports](https://github.com/Schnuecks/mailreports) <img src="https://img.shields.io/badge/stabil-2E7D32" alt="stabil">
 
 **DMARC- und TLS-Berichte im Klartext.** mailreports holt die täglichen DMARC- und
@@ -165,6 +184,25 @@ plates with previews, print time, filament, costs and a 3D preview of the actual
 <p>
   <a href="https://github.com/Schnuecks/plateshelf"><img src="assets/plateshelf-overview.png" width="49%" alt="PlateShelf overview of all projects"></a>
   <a href="https://github.com/Schnuecks/plateshelf"><img src="assets/plateshelf-preview.png" width="49%" alt="PlateShelf 3D preview of the toolpaths"></a>
+</p>
+
+---
+
+### <img src="assets/nine-lives-logo.svg" width="28" align="top" alt=""> [Nine Lives](https://github.com/Schnuecks/ha-nine-lives) <img src="https://img.shields.io/badge/stable-2E7D32" alt="stable">
+
+**Give a device a new life in Home Assistant.** Nine Lives replaces a device without breaking
+anything: the new device takes over the entity IDs, settings and history of the old one, so
+automations, dashboards and the energy dashboard simply keep working – for example when moving
+sensors from Zigbee to Thread/Matter.
+
+- **Entities paired by type and unit**, with a preview of every change and one-click undo
+- **History and long-term statistics** continue, meter sums without a jump in the energy dashboard
+- **References taken along**: device triggers, dashboards, groups and other helpers; YAML files are only reported
+- Swaps even when the old device was already deleted in the manufacturer's app; installed via HACS
+
+<p>
+  <a href="https://github.com/Schnuecks/ha-nine-lives"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nine-lives-pairs-dark.png"><img src="assets/nine-lives-pairs.png" width="49%" alt="Nine Lives pairing the entities of the old and the new device"></picture></a>
+  <a href="https://github.com/Schnuecks/ha-nine-lives"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nine-lives-preview-dark.png"><img src="assets/nine-lives-preview.png" width="49%" alt="Nine Lives preview with the entity IDs taken over and the rewritten references"></picture></a>
 </p>
 
 ---

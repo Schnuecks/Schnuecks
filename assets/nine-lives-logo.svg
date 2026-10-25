@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Nine Lives: a sitting cat with a small 9 on its collar tag -->
+  <g transform="translate(30 -10)">
+    <g fill="#41BDF5">
+      <path d="M150 182 L140 82 L198 124 Q224 116 250 124 L308 82 L298 182 Q306 230 266 254 L182 254 Q142 230 150 182 Z"/>
+      <path d="M190 240 L258 240 Q286 270 312 330 Q340 400 316 452 Q306 470 286 470 L162 470 Q142 470 132 452 Q108 400 136 330 Q162 270 190 240 Z"/>
+      <path d="M300 456 C360 474 404 452 398 404 C394 374 366 368 352 384" fill="none" stroke="#41BDF5" stroke-width="30" stroke-linecap="round"/>
+    </g>
+    <path d="M186 190 q12 -11 24 0 M238 190 q12 -11 24 0" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+    <path d="M216 212 l8 7 l8 -7 z" fill="#fff"/>
+    <path d="M176 254 Q224 272 272 254" fill="none" stroke="#1D3B6E" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="224" cy="284" r="22" fill="#FFB300" stroke="#1D3B6E" stroke-width="5"/>
+    <text x="224" y="294" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="28" fill="#1D3B6E">9</text>
+  </g>
+</svg>

@@ -13,11 +13,12 @@ für mein eigenes Setup und teile sie, wenn sie auch anderen helfen können.
 - 🐍 Meistens **Python**, dazu etwas Shell
 - 🌐 Alle Projekte auf einen Blick: **[schnuecks.dev/de](https://schnuecks.dev/de/)**
 
-KI-Assistenten gehören zu meinem Werkzeugkasten: Sie helfen mir beim Entwurf von Code, Tests und
-Dokumentation. Was gebaut wird, wie es sich verhält und was veröffentlicht wird, entscheide ich,
-und jedes Release läuft vorher auf meiner eigenen Hardware.
+Ich entwickle mit einem KI-Assistenten an meiner Seite. Er schreibt einen guten Teil von Code,
+Tests und Doku, aber was gebaut wird, wie es sich verhält und was am Ende veröffentlicht wird,
+entscheide ich. Jedes Release läuft vorher eine Weile auf meiner eigenen Hardware.
 
-Sicherheit gehört dazu und kommt nicht hinterher. Jedes Projekt durchläuft bei jeder Änderung
+Wichtiger als jede Funktion ist mir dabei die Sicherheit: Wenn sich etwas nicht sicher umsetzen
+lässt, baue ich es lieber gar nicht. Deshalb durchläuft jedes Projekt bei jeder Änderung
 seine Tests, einen Container-Scan (Trivy) und Dependabot; die Web-Apps werden zusätzlich mit
 OWASP ZAP gescannt. Vor der Veröffentlichung bekommt jedes Projekt einen Sicherheits-Review:
 Funde werden mit einem Test nachgestellt, behoben und danach erneut geprüft – nachzulesen in den
@@ -151,11 +152,12 @@ for my own setup and share them when they might be useful to others too.
 - 🐍 Mostly **Python**, with a bit of Shell
 - 🌐 All my projects at a glance: **[schnuecks.dev](https://schnuecks.dev)**
 
-AI coding assistants are part of my workflow: they help me draft code, tests and documentation.
-What gets built, how it behaves and what gets released is my decision, and every release is
-tested on my own hardware first.
+I build my projects with an AI assistant by my side. It writes a good share of the code, tests
+and docs, but what gets built, how it behaves and what finally gets released is my decision.
+Every release runs on my own hardware for a while first.
 
-Security is part of that, not an afterthought. Every project runs its test suite, a container
+Security matters more to me than any feature: if something can't be done securely, I'd rather
+not build it at all. That's why every project runs its test suite, a container
 scan (Trivy) and Dependabot on each change; the web apps are also scanned with OWASP ZAP.
 Before going public, each project gets a security review: findings are reproduced with a test,
 fixed, and the fix is checked again – you can follow it in the changelogs. Found something?

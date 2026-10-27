@@ -81,7 +81,7 @@ statt XML und Fehlercodes.
 - **Jeder Berichtseintrag erklärt**, Absender eingeordnet als eigene Server, beauftragte Dienste, Weiterleitungen oder Unbekannte, mit Reverse-DNS und Netz
 - **DNS-Prüfung** für DMARC, SPF, DKIM, MTA-STS und TLS-RPT und eine Empfehlung, wann die Richtlinie strenger werden kann
 - **Benachrichtigungen** per Pushover, ntfy, Webhook oder E-Mail, dazu eine Wochenübersicht
-- Passkeys, Single Sign-on, sechs Sprachen; ein Container, eine SQLite-Datei. Mehr auf [mailreports.app](https://mailreports.app/de/)
+- Passkeys, Single Sign-on, sechs Sprachen; ein Container, eine SQLite-Datei. Mehr auf [schnuecks.dev](https://schnuecks.dev/de/mailreports/)
 
 <p>
   <a href="https://github.com/Schnuecks/mailreports"><img src="assets/mailreports-overview.png" width="49%" alt="mailreports-Übersicht mit der DMARC-Bestehensquote zweier Domains"></a>
@@ -103,7 +103,7 @@ eingehender Verbindungen.
 - Weboberfläche in sechs Sprachen, tägliche Sicherungen, ein Container mit einer SQLite-Datei
 
 Öffentliche Beta: Alles funktioniert, aber eine angemeldete App kann sich erst verbinden, wenn
-RustDesk die Korrektur für seinen ID-Server veröffentlicht. Mehr auf [rdapi.app](https://rdapi.app).
+RustDesk die Korrektur für seinen ID-Server veröffentlicht. Mehr auf [schnuecks.dev](https://schnuecks.dev/de/rdapi/).
 
 <p>
   <a href="https://github.com/Schnuecks/rdapi"><img src="assets/rdapi-devices.png" width="49%" alt="RDAPI-Geräteliste in der Weboberfläche"></a>
@@ -219,7 +219,7 @@ result codes.
 - **Every report record explained**, senders classified as your own servers, services, forwarders or unknown, with reverse DNS and network
 - **DNS check** for DMARC, SPF, DKIM, MTA-STS and TLS-RPT, and a recommendation when the policy can be tightened
 - **Notifications** via Pushover, ntfy, webhook or email, plus a weekly summary
-- Passkeys, single sign-on, six languages; one container, one SQLite file. More at [mailreports.app](https://mailreports.app)
+- Passkeys, single sign-on, six languages; one container, one SQLite file. More at [schnuecks.dev](https://schnuecks.dev/mailreports/)
 
 <p>
   <a href="https://github.com/Schnuecks/mailreports"><img src="assets/mailreports-overview.png" width="49%" alt="mailreports overview with the DMARC pass rate of two domains"></a>
@@ -240,7 +240,7 @@ book that follows you to every device, a device list and a history of incoming c
 - Web interface in six languages, daily backups, one container with one SQLite file
 
 Public beta: everything works, but a signed-in app can only connect once RustDesk releases
-its ID server fix. More at [rdapi.app](https://rdapi.app).
+its ID server fix. More at [schnuecks.dev](https://schnuecks.dev/rdapi/).
 
 <p>
   <a href="https://github.com/Schnuecks/rdapi"><img src="assets/rdapi-devices.png" width="49%" alt="RDAPI device list in the web interface"></a>

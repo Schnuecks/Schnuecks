@@ -10,7 +10,7 @@ für mein eigenes Setup und teile sie, wenn sie auch anderen helfen können.
 
 - 🖨️ **3D-Druck** mit einem Bambu Lab P2S und einem Prusa Mini+
 - 🏠 **Homelab & Self-Hosting**: eigene Dienste zuhause, in Docker
-- 🐍 Meistens **Python**, dazu etwas Shell
+- 🐍 Meistens **Python**, **Rust** dazu etwas Shell
 - 🌐 Alle Projekte auf einen Blick: **[schnuecks.dev/de](https://schnuecks.dev/de/)**
 
 Ich entwickle mit einem KI-Assistenten an meiner Seite. Er schreibt einen guten Teil von Code,

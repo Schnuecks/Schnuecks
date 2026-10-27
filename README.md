@@ -149,7 +149,7 @@ for my own setup and share them when they might be useful to others too.
 
 - 🖨️ **3D printing** on a Bambu Lab P2S and a Prusa Mini+
 - 🏠 **Homelab & self-hosting**: my own services at home, running in Docker
-- 🐍 Mostly **Python**, with a bit of Shell
+- 🐍 Mostly **Python**, **Rust** with a bit of Shell
 - 🌐 All my projects at a glance: **[schnuecks.dev](https://schnuecks.dev)**
 
 I build my projects with an AI assistant by my side. It writes a good share of the code, tests

@@ -10,7 +10,7 @@ für mein eigenes Setup und teile sie, wenn sie auch anderen helfen können.
 
 - 🖨️ **3D-Druck** mit einem Bambu Lab P2S und einem Prusa Mini+
 - 🏠 **Homelab & Self-Hosting**: eigene Dienste zuhause, in Docker
-- 🐍 Meistens **Python**, **Rust** dazu etwas Shell
+- 🐍 Meistens **Python** und **Rust**, dazu etwas Shell
 - 🌐 Alle Projekte auf einen Blick: **[schnuecks.dev/de](https://schnuecks.dev/de/)**
 
 Ich entwickle mit einem KI-Assistenten an meiner Seite. Er schreibt einen guten Teil von Code,
@@ -67,6 +67,23 @@ Umzug von Sensoren von Zigbee auf Thread/Matter.
 <p>
   <a href="https://github.com/Schnuecks/ha-nine-lives"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nine-lives-pairs-dark.png"><img src="assets/nine-lives-pairs.png" width="49%" alt="Nine Lives ordnet die Entitäten des alten und neuen Geräts einander zu"></picture></a>
   <a href="https://github.com/Schnuecks/ha-nine-lives"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nine-lives-preview-dark.png"><img src="assets/nine-lives-preview.png" width="49%" alt="Vorschau von Nine Lives mit übernommenen IDs und umgeschriebenen Verweisen"></picture></a>
+</p>
+
+---
+
+### <img src="assets/unclouded-logo.svg" width="28" align="top" alt=""> [Unclouded](https://github.com/Schnuecks/ha-unclouded) <img src="https://img.shields.io/badge/stabil-2E7D32" alt="stabil">
+
+**Was in Home Assistant auch ohne Internet läuft.** Unclouded verfolgt jede Automation über
+Skripte, Szenen, Helfer und Templates bis zu den Integrationen dahinter und zeigt, was ohne
+Internet weiterläuft – und was du gegen den Rest tun kannst.
+
+- **Jede Automation eingeordnet**: läuft weiter, verliert ihre Benachrichtigungen oder fällt aus, jeweils mit kurzer Begründung
+- **Vorschläge, die zu deinem Setup passen**, mit Link direkt zur passenden Einstellung
+- Prüft den **Sprachassistenten** und vergleicht die Einschätzung mit **echten Ausfällen**
+- Liest nur und ändert nichts; in der HACS-Standardliste. Mehr auf [schnuecks.dev](https://schnuecks.dev/de/unclouded/)
+
+<p>
+  <a href="https://github.com/Schnuecks/ha-unclouded"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/unclouded-overview-dark.png"><img src="assets/unclouded-overview.png" width="64%" alt="Unclouded zeigt, wie viele Automationen ohne Internet weiterlaufen, und was du tun kannst"></picture></a>
 </p>
 
 ---
@@ -149,7 +166,7 @@ for my own setup and share them when they might be useful to others too.
 
 - 🖨️ **3D printing** on a Bambu Lab P2S and a Prusa Mini+
 - 🏠 **Homelab & self-hosting**: my own services at home, running in Docker
-- 🐍 Mostly **Python**, **Rust** with a bit of Shell
+- 🐍 Mostly **Python** and **Rust**, with a bit of Shell
 - 🌐 All my projects at a glance: **[schnuecks.dev](https://schnuecks.dev)**
 
 I build my projects with an AI assistant by my side. It writes a good share of the code, tests
@@ -205,6 +222,23 @@ sensors from Zigbee to Thread/Matter.
 <p>
   <a href="https://github.com/Schnuecks/ha-nine-lives"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nine-lives-pairs-dark.png"><img src="assets/nine-lives-pairs.png" width="49%" alt="Nine Lives pairing the entities of the old and the new device"></picture></a>
   <a href="https://github.com/Schnuecks/ha-nine-lives"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nine-lives-preview-dark.png"><img src="assets/nine-lives-preview.png" width="49%" alt="Nine Lives preview with the entity IDs taken over and the rewritten references"></picture></a>
+</p>
+
+---
+
+### <img src="assets/unclouded-logo.svg" width="28" align="top" alt=""> [Unclouded](https://github.com/Schnuecks/ha-unclouded) <img src="https://img.shields.io/badge/stable-2E7D32" alt="stable">
+
+**What in Home Assistant still works without the internet.** Unclouded follows every
+automation through scripts, scenes, helpers and templates down to the integrations behind it,
+and shows what keeps running when the internet is gone – and what you can do about the rest.
+
+- **Every automation sorted**: keeps working, loses its notifications, or stops, each with a short reason
+- **Suggestions that fit your setup**, with a link straight to the right setting
+- Checks the **voice assistant** and compares the estimate with **real outages**
+- Only reads, never changes anything; in the HACS default list. More at [schnuecks.dev](https://schnuecks.dev/unclouded/)
+
+<p>
+  <a href="https://github.com/Schnuecks/ha-unclouded"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/unclouded-overview-dark.png"><img src="assets/unclouded-overview.png" width="64%" alt="Unclouded showing how many automations keep working without the internet, and what you can do"></picture></a>
 </p>
 
 ---
